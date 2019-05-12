@@ -1,0 +1,13 @@
+C:\Users\BankMeen\source\repos\Flyff Program\Flyff Program\bin\Release\Flyff Program.exe.config
+C:\Users\BankMeen\source\repos\Flyff Program\Flyff Program\bin\Release\Flyff Program.exe
+C:\Users\BankMeen\source\repos\Flyff Program\Flyff Program\bin\Release\Flyff Program.pdb
+C:\Users\BankMeen\source\repos\Flyff Program\Flyff Program\obj\Release\Flyff_Program.Login.resources
+C:\Users\BankMeen\source\repos\Flyff Program\Flyff Program\obj\Release\Flyff_Program.Properties.Resources.resources
+C:\Users\BankMeen\source\repos\Flyff Program\Flyff Program\obj\Release\Flyff Program.csproj.GenerateResource.cache
+C:\Users\BankMeen\source\repos\Flyff Program\Flyff Program\obj\Release\Flyff Program.csproj.CoreCompileInputs.cache
+C:\Users\BankMeen\source\repos\Flyff Program\Flyff Program\obj\Release\Flyff Program.exe
+C:\Users\BankMeen\source\repos\Flyff Program\Flyff Program\obj\Release\Flyff Program.pdb
+C:\Users\BankMeen\source\repos\Flyff Program\Flyff Program\obj\Release\Flyff_Program.MainForm.resources
+C:\Users\BankMeen\source\repos\Flyff Program\Flyff Program\obj\Release\Flyff_Program.ConfigDataPath.resources
+C:\Users\BankMeen\source\repos\Flyff Program\Flyff Program\obj\Release\Flyff_Program.EditCharacter.resources
+C:\Users\BankMeen\source\repos\Flyff Program\Flyff Program\obj\Release\Flyff_Program.TradeLog.resources

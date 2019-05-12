@@ -1,0 +1,14 @@
+C:\Users\BankMeen\source\repos\Flyff Program\Flyff Program\bin\Debug\Flyff Program.exe.config
+C:\Users\BankMeen\source\repos\Flyff Program\Flyff Program\bin\Debug\Flyff Program.exe
+C:\Users\BankMeen\source\repos\Flyff Program\Flyff Program\bin\Debug\Flyff Program.pdb
+C:\Users\BankMeen\source\repos\Flyff Program\Flyff Program\obj\Debug\Flyff_Program.ConfigDataPath.resources
+C:\Users\BankMeen\source\repos\Flyff Program\Flyff Program\obj\Debug\Flyff_Program.Login.resources
+C:\Users\BankMeen\source\repos\Flyff Program\Flyff Program\obj\Debug\Flyff_Program.MainForm.resources
+C:\Users\BankMeen\source\repos\Flyff Program\Flyff Program\obj\Debug\Flyff_Program.Properties.Resources.resources
+C:\Users\BankMeen\source\repos\Flyff Program\Flyff Program\obj\Debug\Flyff Program.csproj.GenerateResource.cache
+C:\Users\BankMeen\source\repos\Flyff Program\Flyff Program\obj\Debug\Flyff Program.csproj.CoreCompileInputs.cache
+C:\Users\BankMeen\source\repos\Flyff Program\Flyff Program\obj\Debug\Flyff Program.exe
+C:\Users\BankMeen\source\repos\Flyff Program\Flyff Program\obj\Debug\Flyff Program.pdb
+C:\Users\BankMeen\source\repos\Flyff Program\Flyff Program\obj\Debug\Flyff Program.csprojAssemblyReference.cache
+C:\Users\BankMeen\source\repos\Flyff Program\Flyff Program\obj\Debug\Flyff_Program.EditCharacter.resources
+C:\Users\BankMeen\source\repos\Flyff Program\Flyff Program\obj\Debug\Flyff_Program.TradeLog.resources

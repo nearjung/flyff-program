@@ -1,0 +1,3 @@
+FolderPath=D:\Flyff V19\Client
+IPServer=127.0.0.1
+WorldServerPort=5400
